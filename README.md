@@ -30,20 +30,20 @@ REACT-FOOD-DELIVERY-APP/
 # How to Run This Project
 1. Clone the repository
 
-git clone https://github.com/alkashivareddi/REACT-FOOD-DELIVERY-APP.git
+   git clone https://github.com/alkashivareddi/REACT-FOOD-DELIVERY-APP.git
 
 2. Navigate to the project directory
 
-cd REACT-FOOD-DELIVERY-APP/my-app
+   cd REACT-FOOD-DELIVERY-APP/my-app
 
 3. Install dependencies
 
-npm install
+   npm install
 
 4. Start the development server
 
-npm start
-Now open your browser and go to http://localhost:3000 to view the app!
+   npm start
+   Now open your browser and go to http://localhost:3000 to view the app!
 
 
 
