@@ -43,6 +43,9 @@ REACT-FOOD-DELIVERY-APP/
 4. Start the development server
 
    npm start
+# License
+This project is open-source and available under the MIT License.
+
    
 
 
