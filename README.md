@@ -15,8 +15,8 @@ REACT-FOOD-DELIVERY-APP is a modern web-based food delivery application built us
 ✅ Easy to customize for your own food business
 
 # Project Structure
-
-``REACT-FOOD-DELIVERY-APP/
+```
+REACT-FOOD-DELIVERY-APP/
 ├── my-app/              → React application folder
 │   ├── public/          → Static assets (images, icons, etc.)
 │   └── src/             → All React source code
@@ -25,6 +25,6 @@ REACT-FOOD-DELIVERY-APP is a modern web-based food delivery application built us
 │       ├── App.js       → Main App component
 │       └── index.js     → Application entry point
 ├── package.json         → Project metadata & dependencies
-└── README.md            → Project documentation``
-
+└── README.md            → Project documentation
+```
 
