@@ -1,5 +1,12 @@
 # REACT-FOOD-DELIVERY-APP
 REACT-FOOD-DELIVERY-APP is a modern web-based food delivery application built using React.js. It provides a clean, responsive, and user-friendly interface to browse food items, manage a shopping cart, and simulate placing an order — ideal for frontend practice or portfolio display.
+# Technologies Used
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript 
+- npm (Node Package Manage)
 
 # Key Features
 - Responsive design (mobile-friendly)
